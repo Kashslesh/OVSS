@@ -1,0 +1,70 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: white;
+    background: rgb(116,130,133);
+    background: radial-gradient(circle, rgba(116,130,133,1) 0%, rgba(149,149,149,1) 19%, rgba(2,0,36,1) 100%);
+}
+h1 {
+    font-size: 200px;
+    margin: 0;
+}
+h2 {
+    font-size: 30px;
+}
+nav li{
+    margin: 0 10px;
+    list-style: none;
+}
+.banner {
+    height: 80vh;
+}
+.logo {
+    font-size: 35px;
+}
+li {
+    font-size: 32px;
+}
+ nav {
+     width: 90vw;
+     margin: auto;
+ }
+
+
+
+/* --------- RACCOURCI ------- */
+
+.border{
+    border: 1px solid white;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+.alignCenter{
+
+    align-items: center;
+}
+
+.justifySB{
+    justify-content: space-between;
+}
+ 
+.justifyCentre {
+    justify-content: center;
+}
+.flexDerectionC {
+    flex-direction: column;
+}
+
+span {
+    color: red;
+}
+.fa-instagram {
+    color: white;
+}
+.fa-snapchat-ghost {
+    color: yellow;
+}
